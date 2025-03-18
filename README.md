@@ -29,13 +29,14 @@ An all-in-one app that helps users track their spending, savings, investments, a
 **Required Features**
 
 1. Login Page
-2. Signup Page
-3. Log Out Option
-4. Profile Page
-5. Home Page (Features Expenses with additional details, categories, and filter options)
-6. User ability to add and delete expenses, subscriptions, and deposits
-7. Subscription Tracker
-8. Help/FAQ/Tips User Forum Page
+2. Forget Password
+3. Signup Page
+4. Log Out Option
+5. Profile Page
+6. Home Page (Features Expenses with additional details, categories, and filter options)
+7. User ability to add and delete expenses, subscriptions, and deposits
+8. Subscription Tracker
+9. Help/FAQ/Tips User Forum Page
 
 **Optional Features**
 
