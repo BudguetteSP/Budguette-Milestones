@@ -37,6 +37,7 @@ An all-in-one app that helps users track their spending, savings, investments, a
 7. User ability to add and delete expenses, subscriptions, and deposits
 8. Subscription Tracker
 9. Help/FAQ/Tips User Forum Page
+10. Create Posts (Includes Title, Message, Ability to add pictures)
 
 **Optional Features**
 
