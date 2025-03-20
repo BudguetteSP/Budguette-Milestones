@@ -33,11 +33,15 @@ An all-in-one app that helps users track their spending, savings, investments, a
 3. Signup Page
 4. Log Out Option
 5. Profile Page
-6. Home Page (Features Expenses with additional details, categories, and filter options)
-7. User ability to add and delete expenses, subscriptions, and deposits
-8. Subscription Tracker
-9. Help/FAQ/Tips User Forum Page
-10. Create Posts (Includes Title, Message, Ability to add pictures)
+6. User can add/change phone number, email address, and username (once a week)
+7. Home/Budget Page
+8. Progress Bar for Budget
+9. Ability for User to enter their pay.
+10. User ability to add and delete expenses, subscriptions, and deposits
+11. Subscription Tracker
+12. Help/FAQ/Tips User Forum Page
+13. Create Posts (Includes Title, Message, Ability to add pictures, post button)
+14. User can comment on posts
 
 **Optional Features**
 
@@ -50,6 +54,7 @@ An all-in-one app that helps users track their spending, savings, investments, a
 7. Currency Conversion
 8. Ability to generate reports with trends of user
 9. Settings Page
+10. Moderated Forumn
 
 ### 2. Screen Archetypes
 
