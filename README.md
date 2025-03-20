@@ -35,13 +35,19 @@ An all-in-one app that helps users track their spending, savings, investments, a
 5. Profile Page
 6. User can add/change phone number, email address, and username (once a week)
 7. Home/Budget Page
-8. Progress Bar for Budget
-9. Ability for User to enter their pay.
-10. User ability to add and delete expenses, subscriptions, and deposits
-11. Subscription Tracker
-12. Help/FAQ/Tips User Forum Page
-13. Create Posts (Includes Title, Message, Ability to add pictures, post button)
-14. User can comment on posts
+8. Expenses stream flow on home page (Icon/Pic + Name + Price)
+10. Progress Bar for Budget
+11. Ability for User to enter their pay.
+12. User ability to add and delete expenses, deposits (Budget Page), and subscriptions (subscription page),
+13. Subscription Tracker
+14. Help/FAQ/Tips User Forum Page (Shows User Profile, Titles, 
+15. Forumn Create Post Option (Includes Title, Message, Ability to add pictures, post button)
+16. Forumn Details Page (Shows all of the info from creation)
+17. User can delete their own post
+18. User can comment on posts
+19. Calculate Spending (Weekly, Monthly, Yearly)
+20. Calculate Savings (Weekly, Monthly, Yearly)
+21. Calculate time to reach a User's goal 
 
 **Optional Features**
 
