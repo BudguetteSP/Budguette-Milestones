@@ -97,14 +97,25 @@ An all-in-one app that helps users track their spending, savings, investments, a
 
 ## Wireframes
 
-Hand-drawn Wireframe <img src="./Wireframe1.jpg" width=600>
+Hand-drawn Wireframe <br>
+<img src="./Wireframe1.jpg" width=600>
 
-Older Hand-drawn Wireframe <img src="./Wireframe3.jpg" width=600>
+<br>
+
+Older Hand-drawn Wireframe <br>
+<img src="./Wireframe3.jpg" width=600>
 <br>
 
 <br>
 
 ### [BONUS] Digital Wireframes & Mockups
+Our outdated Digital Wireframe <br>
+<img src="./Wireframe2.jpg" width=600>
+
+<br>
+
+Our Current Digital Wireframe <br>
+<img src="./wireframe4.png" width=1200>
 
 ### [BONUS] Interactive Prototype
 
