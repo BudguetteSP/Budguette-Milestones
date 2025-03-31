@@ -97,8 +97,9 @@ An all-in-one app that helps users track their spending, savings, investments, a
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+Hand-drawn Wireframe <img src="./Wireframe1.jpg" width=600>
 
+Older Hand-drawn Wireframe <img src="./Wireframe3.jpg" width=600>
 <br>
 
 <br>
