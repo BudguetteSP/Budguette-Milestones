@@ -115,7 +115,7 @@ Our outdated Digital Wireframe <br>
 <br>
 
 Our Current Digital Wireframe <br>
-<img src="./wireframe4.png" width=1200>
+<img src="./wireframe5.png" width=1200>
 
 ### [BONUS] Interactive Prototype
 
