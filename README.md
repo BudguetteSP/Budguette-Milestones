@@ -130,7 +130,7 @@ Below are the Project Board Milestones:
 
 ## Issue cards
 
-- Here is a list of issues we will be working on this sprint: <img src="Project Board Issues.png" width=6\100>
+- Here is a list of issues we will be working on this sprint: <img src="Project Board Issues.png" width=1200>
 - [Add screenshot of your Project Board with the issues that you're working on in the **NEXT sprint**. It should include issues for next unit with assigned owners.] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 
 ## Issues worked on this sprint
