@@ -130,13 +130,30 @@ Below are the Project Board Milestones:
 
 ## Issue cards
 
-- Here is a list of issues we will be working on this sprint: <img src="Project Board Issues.png" width=1200>
-- [Add screenshot of your Project Board with the issues that you're working on in the **NEXT sprint**. It should include issues for next unit with assigned owners.] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+**Here is a list of issues we will be working on this sprint:** <img src="Project Board Issues.png" width=1200>
+
+**Here is the list of issues we will be working on in sprint 2** <img src="Sprint2Issues.PNG" width=1200>
 
 ## Issues worked on this sprint
 
-- List the issues you completed this sprint
-- [Add giphy that shows current build progress for Milestone 2. Note: We will be looking for progression of work between Milestone 2 and 3. Make sure your giphys are not duplicated and clearly show the change from Sprint 1 to 2.]
+**List the issues you completed this sprint:**
+- [x] Firebase Setup to store users and forum posts
+- [x] Functioning Log In Page
+- [x] Functioning Sign Up Page
+- [x] Functioning Forgot Password (Reset Email)
+- [x] Displayed User Info on Profile Page
+- [x] User may upload profile picture from profile page
+- [x] User may edit their bio on profile page
+- [x] Bottom Navigation Bar (Home, Profile, Expenses, Subscriptions, Forums)
+- [x] Created initial Home, Subscriptions, and Expenses pages to be developed later
+- [x] Created Create Post Detail on Forums Page (Does not function with database currently)
+
+
+**Here is our current build progress at the end of sprint 1**
+
+<img src='./BudguetteDemo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
 <br>
 
