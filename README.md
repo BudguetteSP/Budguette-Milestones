@@ -166,8 +166,51 @@ GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 ## Completed user stories
 
 - List the completed user stories from this unit
+- [x] Developed Database to hold User Expenses/Deposits
+- [x] Form For User to Add Expenses/Deposits
+- [x] Functioning Search Bar for Forums
+- [X] Functioning Search Bar for Expenses Page
+- [x] Functioning Sign Up Page
+- [x] Forum Create Post Page 
+- [x] Logout Option on Profile Page
+- [x] Forums Details Page for Full Post
+- [x] User can delete their own posts
+- [x] Ability for user to click on other users' profile page from post
+- [x] Clicking on another users' profile page so their info and all of their posts.
+- [x] User can edit their bio and profile picture
+- [x] Stylized Nav Bar
+- [x] Stylized Login Screen
+
+      
 - List any pending user stories / any user stories you decided to cut
 from the original requirements
+
+- [ ] Logo 
+- [ ] User ability to comment on forum post
+- [ ] User ability to delete comments
+- [ ] User ability to delete expenses
+- [ ] User ability to delete subscriptions
+- [ ] Stylize Front-End Expenses Page
+- [ ] Stylize Front-End Profile Page
+- [ ] Stylize Front-End Subscriptions Page
+- [ ] User ability to see own posts in profile fragment
+- [ ] Developed Database to hold User Subscriptions
+- [ ] Form for User to add subscriptions
+- [ ] Subscription Tracker Recycler
+- [ ] Add Summary and progress bars to home (summary) page
+- [ ] User Ability to enter their pay/budget
+- [ ] Calculation of Spendings
+- [ ] Calculate Savings
+- [ ] Calculate time to reach user goals
+- [ ] Ability to generate reports with trends of user
+- [ ] Settings Page for additional settings or help
+- [ ] Google and Facebook Sign In Added
+- [ ] Calendar
+- [ ] Payment Reminders
+- [ ] Camera Option for trakcing reciepts
+- [ ] Currency Conversion
+- [ ] Moderation of Forums
+
 
 [Add video/gif of your current application that shows build progress]
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
