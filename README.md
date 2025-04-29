@@ -217,5 +217,5 @@ from the original requirements
 
 ## App Demo Video
 
-  WE ARE COMPLETING DEMO VIDEO FOR UNIT 10
+  THE CLASS IS COMPLETING DEMO VIDEO FOR UNIT 10
 - Embed the YouTube/Vimeo link of your Completed Demo Day prep video
