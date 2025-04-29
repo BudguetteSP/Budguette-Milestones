@@ -180,14 +180,14 @@ GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 - [x] User can edit their bio and profile picture
 - [x] Stylized Nav Bar
 - [x] Stylized Login Screen
+- [x] User can Comment on Forum Post
+- [x] User can delete their comments
 
       
 - List any pending user stories / any user stories you decided to cut
 from the original requirements
 
 - [ ] Logo 
-- [ ] User ability to comment on forum post
-- [ ] User ability to delete comments
 - [ ] User ability to delete expenses
 - [ ] User ability to delete subscriptions
 - [ ] Stylize Front-End Expenses Page
