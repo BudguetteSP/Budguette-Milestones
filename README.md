@@ -163,6 +163,10 @@ GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
 [Add screenshot of your Project Board with the updated status of issues for Milestone 3. Note that these should include the updated issues you worked on for this sprint and not be a duplicate of Milestone 2 Project board.] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 
+<img src='./M3.PNG' title='Project Board' width='' alt='Project Board' />
+<img src='./M3issues.PNG' title='Project Board' width='' alt='Project Board' />
+<img src='./m3issues2.PNG' title='Project Board' width='' alt='Project Board' />
+
 ## Completed user stories
 
 - List the completed user stories from this unit
