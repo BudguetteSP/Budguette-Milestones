@@ -85,6 +85,7 @@ An all-in-one app that helps users track their spending, savings, investments, a
 * Subscription Page
 * Forums Page
 * Profile Page
+* Expenses Page
 
 **Flow Navigation** (Screen to Screen)
 
@@ -94,6 +95,11 @@ An all-in-one app that helps users track their spending, savings, investments, a
   - => Home
 - Post Creation (Forumn) Page
   - => Forumn Page (After creating new post)
+-	Expense/Deposit Creation (Forumn) Page
+  -	=> Expenses Page (After creating new expense/deposit)
+-	Subscription Creation (Forumn) Page
+  -	=> Subscriptions Page (After creating new subscription)
+
 
 ## Wireframes
 
