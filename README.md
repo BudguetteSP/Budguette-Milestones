@@ -194,6 +194,9 @@ GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 - [x] User can delete their comments
 - [x] Logo 
 - [x] User ability to delete expenses
+- [x] Form for User to add subscriptions
+- [x] Developed Database to hold User Subscriptions
+- [x] Subscription Tracker Recycler
 
       
 - List any pending user stories / any user stories you decided to cut
@@ -204,9 +207,6 @@ from the original requirements
 - [ ] Stylize Front-End Profile Page
 - [ ] Stylize Front-End Subscriptions Page
 - [ ] User ability to see own posts in profile fragment
-- [ ] Developed Database to hold User Subscriptions
-- [ ] Form for User to add subscriptions
-- [ ] Subscription Tracker Recycler
 - [ ] Add Summary and progress bars to home (summary) page
 - [ ] User Ability to enter their pay/budget
 - [ ] Calculation of Spendings
