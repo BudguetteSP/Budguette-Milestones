@@ -197,15 +197,15 @@ GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 - [x] Form for User to add subscriptions
 - [x] Developed Database to hold User Subscriptions
 - [x] Subscription Tracker Recycler
+- [x] Stylize Front-End Expenses Page
+- [x] Stylize Front-End Profile Page
+- [x] Stylize Front-End Subscriptions Page
 
       
 - List any pending user stories / any user stories you decided to cut
 from the original requirements
 
 - [ ] User ability to delete subscriptions
-- [ ] Stylize Front-End Expenses Page
-- [ ] Stylize Front-End Profile Page
-- [ ] Stylize Front-End Subscriptions Page
 - [ ] User ability to see own posts in profile fragment
 - [ ] Add Summary and progress bars to home (summary) page
 - [ ] User Ability to enter their pay/budget
