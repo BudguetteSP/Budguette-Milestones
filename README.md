@@ -229,3 +229,7 @@ from the original requirements
 ## App Demo Video
 
  --> [Click Here View Demo Video](https://www.youtube.com/watch?v=kknGxFVgkac&ab_channel=RaiiDeNx7)
+
+## App Presentation Poster
+
+<img src='./Poster.png' title='Final Poster' width='' alt='Final Poster' />
